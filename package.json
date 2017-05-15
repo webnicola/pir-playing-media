@@ -1,0 +1,16 @@
+{
+  "name": "pir-playing-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nicola Dimatteo",
+  "license": "ISC",
+  "dependencies": {
+    "omxdirector": "^0.1.2",
+    "raspi-sensors": "^0.2.11"
+  }
+}
