@@ -1,5 +1,5 @@
 # PIR playing media
-[<img src="https://img.shields.io/badge/Node.js-7.x%20through%207.x-brightgreen.svg">](https://nodejs.org)
+[<img src="https://img.shields.io/badge/Node.js-4.x%20through%207.x-brightgreen.svg">](https://nodejs.org)
 
 A simple project for playing sounds using a PIR sensor and raspberry pi.
 
