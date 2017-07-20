@@ -14,7 +14,7 @@ PIR.fetchInterval(function(err, data) {
         }
 
         // Log the values
-        // console.log(data);
+       console.log(data.value);
        data.value && action();
 }, 1); // Fetch data every 1 seconds
 
